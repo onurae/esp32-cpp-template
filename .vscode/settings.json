@@ -84,5 +84,6 @@
         "xtree": "cpp",
         "xutility": "cpp"
     },
-    "idf.portWin": "COM4"
+    "idf.portWin": "COM4",
+    "idf.adapterTargetName": "esp32"
 }
